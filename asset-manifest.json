@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ghaziabad-Toastmasters-Club/static/css/main.7f5b4371.css",
-    "main.js": "/Ghaziabad-Toastmasters-Club/static/js/main.ec1d813a.js",
+    "main.js": "/Ghaziabad-Toastmasters-Club/static/js/main.32b46a40.js",
     "static/js/787.c3b56d40.chunk.js": "/Ghaziabad-Toastmasters-Club/static/js/787.c3b56d40.chunk.js",
     "static/media/Moment_Of_Truth.PNG": "/Ghaziabad-Toastmasters-Club/static/media/Moment_Of_Truth.969792238f49af6c02ec.PNG",
     "static/media/Toastmaster2.png": "/Ghaziabad-Toastmasters-Club/static/media/Toastmaster2.0af918e34397d8e1b17a.png",
@@ -22,11 +22,11 @@
     "static/media/background-image.jpg": "/Ghaziabad-Toastmasters-Club/static/media/background-image.d412a241111696688997.jpg",
     "index.html": "/Ghaziabad-Toastmasters-Club/index.html",
     "main.7f5b4371.css.map": "/Ghaziabad-Toastmasters-Club/static/css/main.7f5b4371.css.map",
-    "main.ec1d813a.js.map": "/Ghaziabad-Toastmasters-Club/static/js/main.ec1d813a.js.map",
+    "main.32b46a40.js.map": "/Ghaziabad-Toastmasters-Club/static/js/main.32b46a40.js.map",
     "787.c3b56d40.chunk.js.map": "/Ghaziabad-Toastmasters-Club/static/js/787.c3b56d40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f5b4371.css",
-    "static/js/main.ec1d813a.js"
+    "static/js/main.32b46a40.js"
   ]
 }
