@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './Collage.css';
-import image1 from './GalleryImages/Toastmaster1.jpeg';
+import image1 from './GalleryImages/Toastmaster1.png';
 import image2 from './GalleryImages/Toastmaster2.png';
 import image3 from './GalleryImages/Toastmaster3.png';
 import image4 from './GalleryImages/Toastmaster4.png';
