@@ -12,7 +12,7 @@ const ContactFooter = () => {
         <div className="contact-info">
           <div className="contact-item">
             <span className="contact-label">Phone : </span>
-            <span className="contact-value">91XXXXXXXX</span>
+            <span className="contact-value">91-7982671958</span>
           </div>
           <div className="contact-item">
             <span className="contact-label">Email : </span>
